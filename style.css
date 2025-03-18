@@ -1,0 +1,36 @@
+
+
+.container{
+
+      width:90%;
+      height:50;
+      border: 1px solid red;
+      margin:0 auto;
+}
+.logo{
+    width:10%;
+    border:1px solid red;
+
+
+}
+
+.logo img{
+
+}
+
+.menu{
+
+    width:45%;
+    border: 1px solid red;
+
+}
+.menu ul{
+
+}
+
+.menu ul li{
+
+}
+.menu ul li a{
+    
+}
